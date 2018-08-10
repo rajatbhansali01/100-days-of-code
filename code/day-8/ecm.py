@@ -1,6 +1,4 @@
-num1 = 10
-num2 = 14
-num3 = 12
+
 num1=int(input("enter first no"))
 num2=int(input("enter second no"))
 num3=int(input("enter third no"))
